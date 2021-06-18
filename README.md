@@ -11,6 +11,7 @@
 - `testing library` - Biblioteca (provê utilitários para montagem de componentes);
 | Ferramenta para interagir com componentes simulando o comportamento de um usuário.
 | Trabalha em conjunto com o Jest.
+| DEBUG - `screen.debug()`
 
 - `Enzyme` - Biblioteca (provê utilitários para montagem de componentes React);
 | Ferramenta para interagir com componentes simulando o comportamento de um usuário.
